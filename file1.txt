@@ -1,4 +1,2 @@
-I am [FIXED!] first line of file one.
 
-There was a nasty error in this file!!
-
+I am [FIXED!] first line of file one. Let's have an experiment on this line!!
